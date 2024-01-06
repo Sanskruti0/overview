@@ -36,7 +36,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - ⚡ In my free time, I learn about tech stacks and read tech articles.
 
-- 📫How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Manish-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- 📫How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Sanskruti-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 ---
 
 ### 🛠️ Languages and Tools :
